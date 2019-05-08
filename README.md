@@ -24,9 +24,11 @@ A intenção do projeto é facilitar a manipulação de Bíblias em XML utilizan
 - teste_audio.py - Exemplo de como utilizar a ferramenta Balcon e WMAEncode para gerar áudio de textos;
 - gerar_audio_wma.py - Geração de áudio de arquivos txt.
 
-* A saída de áudio utiliza a linguagem instalada no sistema!
-* Balcon - Ferramenta do software [Balabolka](http://www.cross-plus-a.com/br/balabolka.htm)
-* WMAEncode - Encoder de aúdio [Link](https://hydrogenaud.io/index.php/topic,90519.0.html)
+> A saída de áudio utiliza a linguagem instalada no sistema!
+
+> Balcon - Ferramenta do software [Balabolka](http://www.cross-plus-a.com/br/balabolka.htm)
+
+> WMAEncode - Encoder de aúdio [Link](https://hydrogenaud.io/index.php/topic,90519.0.html)
 
 ## A FAZER:
 - Função para buscar texto(s):
